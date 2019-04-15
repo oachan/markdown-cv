@@ -1,91 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: GuanCheng's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Huang, Guan Cheng
+自然語言處理與機器學習工程師
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="GuanCheng@itri.org.tw">GuanCheng@itri.org.tw</a>
+| <a href="https://www.linkedin.com/in/guan-cheng-huang-b2919890/">My Linkedin page</a>
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`Dec 2015-PRESENT`  
+__工業技術研究院 巨資中心-文字探勘與分析技術部, 新竹縣__  — 副工程師
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Natural Language Processing
+- Machine Learning and Deep Learning 
+- Search Engine 
+- Python / Java 
+- Tensorflow / Keras 
+- Solr / Elasticsearch
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2013 - Jun 2015`  
+__國立清華大學, 新竹市__  — Master’s Degree
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+就讀資訊工程學系，自然語言處理實驗室 
 
-- Sizar
+黃冠誠. 自動擷取搭配詞與文法樣式以協助學術英文寫作. Diss. 國立清華大學, 2015.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Sep 2009 - Jun 2013`  
+__國立中正大學, 嘉義縣__ — Bachelor's Degree
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+就讀資訊工程學系，計算型智慧實驗室
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2014`
+黃冠誠, et al. "學術論文簡介的自動文步分析與寫作提示." Computational Linguistics & Chinese Language Processing (2014): 29.
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
 
 ### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Apr 2019 -->
 
 
